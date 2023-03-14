@@ -1,0 +1,26 @@
+{
+  "name": "site-pessoal-marcello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.26",
+    "aos": "^2.3.4",
+    "next": "^13.2.3",
+    "nodemailer": "^6.9.1",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "styled-components": "^5.3.8"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.6",
+    "@types/react": "18.0.28",
+    "typescript": "4.9.5"
+  }
+}
