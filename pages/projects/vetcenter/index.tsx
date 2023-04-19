@@ -17,12 +17,17 @@ export default function Vetcenter() {
 
       <main>
         <p>
-          Sistema de cadastro para animais desenvolvido em Next.js futuramente
-          terá a api ligada a um aplicativo mobile.{" "}
+          Sistema de cadastro e atendimento de animais, API REST feita em Java
+          Spring boot desenvolvido em Next.js futuramente terá a api ligada a um
+          aplicativo mobile.{" "}
         </p>
         <button
           type="button"
-          onClick={() => handleRedirect("https://github.com/marcelloNazar")}
+          onClick={() =>
+            handleRedirect(
+              "https://github.com/marcelloNazar/api_andre_vetcenter"
+            )
+          }
         >
           <a>Ver projeto</a>
         </button>

@@ -10,6 +10,7 @@
   "dependencies": {
     "@types/styled-components": "^5.1.26",
     "aos": "^2.3.4",
+    "dotenv": "^16.0.3",
     "next": "^13.2.3",
     "nodemailer": "^6.9.1",
     "polished": "^4.2.2",
